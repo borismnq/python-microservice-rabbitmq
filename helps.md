@@ -4,9 +4,9 @@
 
 * Docker build and run:
 
-    docker build -t consumer-image:1.0 -f docker/consumer_docker.dockerfile .
-    
-    docker run -e PYTHONUNBUFFERED="1" --name consumer-container consumer-image:1.0
+    - docker build -t consumer-image:1.0 -f docker/consumer_docker.dockerfile .
+
+    - docker run -e PYTHONUNBUFFERED="1" --name consumer-container consumer-image:1.0
 
 * Example consumer input message:
 
