@@ -1,0 +1,6 @@
+mysql-connector
+requests
+pika
+python-dotenv
+pytz
+iso8601

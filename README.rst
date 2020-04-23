@@ -1,1 +1,1 @@
-Python Microservice - RabbitMQ - MySQL - Docker
+Python Microservice Structure - RabbitMQ - MySQL - Docker

@@ -1,0 +1,8 @@
+{
+    "python-microservice-rabbitmq": {
+        "MYCONSUMEREXCHANGE": "{RabbitMq EXCHANGE value from MY CONSUMER}",
+        "MYCONSUMERQUEUE": "{RabbitMq QUEUE value from MY CONSUMER}",
+        "NEXTCONSUMEREXCHANGE": "{RabbitMq KEY value from NEXT CONSUMER}",
+        "NEXTCONSUMERKEY": "{RabbitMq KEY value from NEXT CONSUMER}"
+    }
+}
