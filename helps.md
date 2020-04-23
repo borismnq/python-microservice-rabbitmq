@@ -1,4 +1,4 @@
-** HELPS AND CONSIDERATIONS ** 
+**HELPS AND CONSIDERATIONS** 
 
 * Check .env and config.json files and update it with YOUR OWN proper credentials
 
