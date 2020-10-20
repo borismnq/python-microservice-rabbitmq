@@ -6,11 +6,11 @@ import time
 import requests
 import json
 
-class ClassicClass(object):
 
+class ClassicClass(object):
     def __init__(self, body):
 
-        self.params = body['params']
+        self.params = body["params"]
         pass
 
     def do_something(self):
